@@ -1,21 +1,25 @@
 {
-  "id": "opela",
-  "name": "Opela",
-  "categoryId": "administration",
-  "description": "Stand-alone 3rd generation superstructure",
-  "investment_24m": "820",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "100",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "376",
-  "deployment_date": "16/2/06",
-  "end_of_maintenance": "4/7/17",
-  "department": "Accounting",
-  "status": "Active",
-  "end_of_life": "30/4/20",
-  "sme_name": "Selene Dionisi",
-  "months_to_renew_support": "18",
-  "sme_email": "Selene.Dionisi@memento.net.au",
-  "investment_number": "344"
+  "applications": [
+    {
+      "id": "opela",
+      "name": "Opela",
+      "categoryId": "administration",
+      "description": "Stand-alone 3rd generation superstructure",
+      "investment_24m": "820",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "100",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "376",
+      "deployment_date": "16/2/06",
+      "end_of_maintenance": "4/7/17",
+      "department": "Accounting",
+      "status": "Active",
+      "end_of_life": "30/4/20",
+      "sme_name": "Selene Dionisi",
+      "months_to_renew_support": "18",
+      "sme_email": "Selene.Dionisi@memento.net.au",
+      "investment_number": "344"
+    }
+  ]
 }
