@@ -9,24 +9,23 @@
       "description": "Stand-alone 3rd generation superstructure",
       "categoryId": "administration",
       "applicationSize": "medium",
-      "status": "standard",
       "licensing_cost": "100",
       "status_color": "#00FF00",
       "department": "Accounting",
       "hostedtype": "OnPremise",
       "deployment_date": "16/2/06",
-      "investment_number": "344",
+      "investment_number": 344,
       "type": "OffShelf",
       "sme_email": "Selene.Dionisi@memento.net.au",
       "investment_24m": "820",
       "sme_name": "Selene Dionisi",
       "support_cost": "376",
       "end_of_life": "30/4/20",
-      "months_to_renew_support": "18",
+      "months_to_renew_support": 18,
       "end_of_maintenance": "4/7/17",
       "integrations": [
         {
-          "assetId": "int-309",
+          "id": "int-309",
           "name": "INT-309",
           "shortName": null,
           "version": "9.1",
@@ -34,7 +33,6 @@
           "payload": "CnCNotification",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -47,7 +45,7 @@
           "golive_date": "14/5/16"
         },
         {
-          "assetId": "int-473",
+          "id": "int-473",
           "name": "INT-473",
           "shortName": null,
           "version": "3.4",
@@ -55,7 +53,6 @@
           "payload": "Receipt - Receiving Import",
           "targetApplicationId": "social_innovation",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -68,7 +65,7 @@
           "golive_date": "3/10/09"
         },
         {
-          "assetId": "int-301",
+          "id": "int-301",
           "name": "INT-301",
           "shortName": null,
           "version": "1.5.5",
@@ -76,7 +73,6 @@
           "payload": "Inventory Adjustments",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Adelice Passby",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -89,7 +85,7 @@
           "golive_date": "21/11/02"
         },
         {
-          "assetId": "int-474",
+          "id": "int-474",
           "name": "INT-474",
           "shortName": null,
           "version": "9.7.0",
@@ -97,7 +93,6 @@
           "payload": "PO Hierarchy PO Receipted Extract",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Matelda Nuss",
           "decom_date": "1/11/11",
           "status_color": "#00FFFF",
@@ -111,7 +106,7 @@
           "golive_date": "28/6/15"
         },
         {
-          "assetId": "int-308",
+          "id": "int-308",
           "name": "INT-308",
           "shortName": null,
           "version": "0.3.6",
@@ -119,7 +114,6 @@
           "payload": "Target Geelong User Contact Info",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -132,7 +126,7 @@
           "golive_date": "23/7/07"
         },
         {
-          "assetId": "int-095",
+          "id": "int-095",
           "name": "INT-095",
           "shortName": null,
           "version": "0.1.3",
@@ -140,7 +134,6 @@
           "payload": "Receipt - Reservations",
           "targetApplicationId": "visibility_agile",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Gerri Gwyllt",
           "status_color": "#00FF00",
           "department": "Integration",
